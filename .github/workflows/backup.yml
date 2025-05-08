@@ -1,3 +1,5 @@
+# This GitHub Actions workflow runs the backup script automatically on every push.
+
 name: Backup Script CI
 
 on: [push]
