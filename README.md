@@ -9,6 +9,7 @@ This project contains a simple Bash script to automate backups of files from a s
 
 ## How it works
 
+- chmod +x backup-script.sh
 - The script copies all files from `~/Documents` to `~/Backup/DATE`.
 - The workflow runs the script automatically when changes are pushed.
 
