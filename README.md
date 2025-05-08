@@ -1,6 +1,6 @@
 # Backup Automation Script
 
-This project contains a simple Bash script to automate backups of files from a source directory to a backup directory, along with a CI/CD workflow using GitHub Actions.
+This project contains a simple Bash script to automate backups of files from a source directory (Document) to a backup directory (Backup), along with a CI/CD workflow using GitHub Actions.
 
 ## Files
 
